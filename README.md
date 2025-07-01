@@ -47,7 +47,7 @@
   "type": "GIT_METADATA",                             //固定值，GIT元数据类型
   "config": {
     "config": {
-      "url": ",                                      //元数据git仓库地址，以http或https开头的地址
+      "url": "",                                      //元数据git仓库地址，以http或https开头的地址
       "filePath": "metadata.json"                     //元数据文件名，一般取metadata.json
     }
   },
